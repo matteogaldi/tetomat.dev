@@ -1,0 +1,26 @@
+baseURL = 'https://tetomat.dev/'
+languageCode = 'en-us'
+title = 'Tetomat'
+theme = 'risotto'
+author = 'tetomat'
+DefaultContentLanguage = "en"
+
+[params.about]
+title = "Hello there!"
+description = "I’m Matteo, a Computer Engineer and Cloud Developer from Italy"
+logo_image = "images/logo.svg"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-github"
+title = "GitHub"
+url = "https://github.com/matteogaldi"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-pied-piper-hat"
+title = "Pied Piper"
+url = "https://silicon-valley.fandom.com/wiki/Pied_Piper_(company)"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-old-republic"
+title = "Old Republic"
+url = "https://starwars.fandom.com/wiki/Old_Republic_era"
